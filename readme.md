@@ -8,7 +8,7 @@ Using `CAEmitterLayer`, Circles emits tranquil moving, colorful circles that flo
 ###Example
 Notice the subtle moving colors in the background. (Best seen on retina displays or actual iOS devices)
 
-<img src="demo.gif" alt="Demo" style="width: 400px;"/>
+<img src="demo.gif" alt="Demo"/>
 
 
 ##Instructions
