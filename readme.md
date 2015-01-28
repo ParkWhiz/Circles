@@ -1,6 +1,6 @@
 #Circles
 
-Circles lets you add a subtle yet beautiful dynamic background to any view controller. Use it to add life and color to plain view controllers.
+Circles lets you add a subtle yet beautiful dynamic background to any view controller. Use it to bring life and color to plain and boring view controllers.
 
 ###What it does
 Using `CAEmitterLayer`, Circles emits tranquil moving, colorful circles that flow gently across the screen. A visual effect view is placed on top that blurs the colors and creates a very pleasant effect.
